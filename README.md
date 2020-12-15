@@ -16,7 +16,7 @@ The Project instructions can be found at [here](https://github.com/JPLee01/Progr
 **Table of Contents**
 ------------------------------------------------------------------------------------------------
 
-[Project - Programming for Data Analysi](#Project-Programming-for-Data-Analysi)
+[Project - Programming for Data Analysis](#Project-Programming-for-Data-Analysis)
 
 [1. Introduction](#1-introduction)
 
