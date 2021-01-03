@@ -34,7 +34,7 @@ The Project instructions can be found at [here](https://github.com/JPLee01/Progr
 
   [5.3  Libraries](#5.3-Libraries)
 
-[6. Summary, Conclusion and Future Analysis of the numpy.random Package](#6.-Summary,-Conclusion-and-Future-Analysis-of-the-numpy.random-Package)
+[6. Summary, Conclusion and Future Analysis of of the Simulated Data Set](#6.-Summary,-Conclusion-and-Future-Analysis-of-the-Simulated-Data-Set)
 
 [7. References](#7-References)
 
